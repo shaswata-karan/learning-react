@@ -1,8 +1,14 @@
 
+import Chai from "./Chai";
+
 
 function App() {
   return (
-    <h1>Learning react | Shaswata</h1>
+    <>
+      <Chai />
+      <h1>Learning react | Shaswata</h1>
+      <p>checkingg</p>
+    </>
   );
 }
 
